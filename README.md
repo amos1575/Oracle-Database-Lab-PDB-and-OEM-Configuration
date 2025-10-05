@@ -6,7 +6,7 @@ Name: Amos Nkurunziza
 
 Student ID: 26973
 
-Course: PL/SQL and Oracle Database Administration
+Course: PL/SQL 
 
 Assignment Title: Oracle PDB and OEM Configuration
 
