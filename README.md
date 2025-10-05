@@ -3,10 +3,15 @@ Oracle PDB and OEM Configuration
 Student Information
 
 Name: Amos Nkurunziza
+
 Student ID: 26973
+
 Course: PL/SQL and Oracle Database Administration
+
 Assignment Title: Oracle PDB and OEM Configuration
+
 Date: 5/10/2025
+
 
 1. Overview of Tasks
 
@@ -36,7 +41,11 @@ Amos_plsqlauca_26973
 A simple password was used for authentication.
 This database was successfully created and opened for use in classwork.
 
-Screenshot:<img width="582" height="324" alt="TASK1" src="https://github.com/user-attachments/assets/6f33602b-ff40-457d-a770-3f558de91ed1" />
+Screenshot:
+
+<img width="582" height="324" alt="TASK1" src="https://github.com/user-attachments/assets/6f33602b-ff40-457d-a770-3f558de91ed1" />
+
+
  PDB creation confirmation (attached).
 
 
@@ -55,9 +64,18 @@ am_to_delete_pdb_26973
 
 After creating the PDB, it was successfully deleted to demonstrate proper lifecycle management.
 
-Screenshot:<img width="706" height="301" alt="PDB TO DELETE" src="https://github.com/user-attachments/assets/be03e13c-0f98-4d6e-9502-9d054c8609d6" />
+Screenshot:
+
+<img width="706" height="301" alt="PDB TO DELETE" src="https://github.com/user-attachments/assets/be03e13c-0f98-4d6e-9502-9d054c8609d6" />
+
+
  Creation  confirmation (attached).
-Screenshot:<img width="615" height="264" alt="PDB DELETION" src="https://github.com/user-attachments/assets/4c7eed17-f9a3-4947-8373-3d40ce881f86" />
+
+ 
+Screenshot:
+
+<img width="615" height="264" alt="PDB DELETION" src="https://github.com/user-attachments/assets/4c7eed17-f9a3-4947-8373-3d40ce881f86" />
+
 
  Deletion confirmation (attached).
 
